@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/ffbb3469-386a-4d3a-90dd-d1b573341bd7" width="500"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ffbb3469-386a-4d3a-90dd-d1b573341bd7" width="300"/>
+</p>
 <h1 align="center">Enterprise Resource Planing</h1>
 <h3 align="center">Application for inventory management include Smart Integration is designed to seamlessly connect all aspects of your business operations, ensuring maximum efficiency and productivity. By automating routine tasks and providing real-time data insights, this ERP solution helps you streamline processes and make informed decisions quickly!</h3>
 <p align="center">
