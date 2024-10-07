@@ -23,14 +23,6 @@
 
 
 
-## UI/UX Design
-
-- Link Figma : [Prototype]()
-- Link Figma : [Mockup]()
-- Link Figma : [Logos]()
-
-
-
 ## Languages and Tools:
 <p align="center">
     <img src="https://github.com/filamentphp/filament/assets/41773797/8d5a0b12-4643-4b5c-964a-56f0db91b90a" alt="Banner" style="width: 100%; max-width: 800px;" />
@@ -129,7 +121,6 @@ Please see our [contributing guide](https://filamentphp.com/docs/support/contrib
 
 <div align="center">
   <img src="https://lldikti10.id/public/img/informasi/berita/MASTER.png" height="80" alt="kampus merdeka" style="margin-right:20px;"/>
-  <img src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
   <img src="https://github.com/user-attachments/assets/ffbb3469-386a-4d3a-90dd-d1b573341bd7" height="100" alt="pakuan univeristy" style="margin-left:20px;"/>
 </div>
 
