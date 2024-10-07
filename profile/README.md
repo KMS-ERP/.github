@@ -1,4 +1,5 @@
-![image](https://img2.pngdownload.id/20181116/bbf/kisspng-pakuan-university-president-university-faculty-fakultas-teknik-universitas-pakuan-5bef991ec5d797.9897420615424289588104.jpg)<h1 align="center">Enterprise Resource Planing</h1>
+![image](https://github.com/user-attachments/assets/ffbb3469-386a-4d3a-90dd-d1b573341bd7)
+<h1 align="center">Enterprise Resource Planing</h1>
 <h3 align="center">Application for inventory management include Smart Integration is designed to seamlessly connect all aspects of your business operations, ensuring maximum efficiency and productivity. By automating routine tasks and providing real-time data insights, this ERP solution helps you streamline processes and make informed decisions quickly!</h3>
 <p align="center">
 
@@ -127,7 +128,7 @@ Please see our [contributing guide](https://filamentphp.com/docs/support/contrib
 <div align="center">
   <img src="https://lldikti10.id/public/img/informasi/berita/MASTER.png" height="80" alt="kampus merdeka" style="margin-right:20px;"/>
   <img src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
-  <img src="https://img2.pngdownload.id/20181116/bbf/kisspng-pakuan-university-president-university-faculty-fakultas-teknik-universitas-pakuan-5bef991ec5d797.9897420615424289588104.jpg" height="80" alt="pakuan univeristy" style="margin-left:20px;"/>
+  <img src="https://github.com/user-attachments/assets/ffbb3469-386a-4d3a-90dd-d1b573341bd7" height="100" alt="pakuan univeristy" style="margin-left:20px;"/>
 </div>
 
 ###
